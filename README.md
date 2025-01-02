@@ -5,4 +5,4 @@ Details are being prepared and will soon be updated here -
 
 
 Proposed Architecture:
-![Proposed Architecture](project_updates/workflow.pdf) 
+![Proposed Architecture](project_updates/1.jpg) 
