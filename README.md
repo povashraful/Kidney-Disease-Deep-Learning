@@ -3,9 +3,9 @@ Advanced Deep Learning Approach for the Diagnosis and Classification of Kidney D
 
 Details are being prepared and will soon be updated here - 
 
-
-Proposed Workflow:
+**
+Proposed Workflow:**
 ![Proposed Workflow](project_updates/2.jpg) 
-
-Proposed Architecture:
+<br><br>
+**Proposed Architecture:**
 ![Proposed Architecture](project_updates/1.jpg) 
