@@ -6,7 +6,7 @@ This work is for research purposes and non-commercial use only. See [Attribution
 Advanced Deep Learning Approach for the Diagnosis and Classification of Kidney Disease
 
 
-
+ChatGPT link: https://chatgpt.com/c/6808b094-0b3c-8004-8f94-c52284e87d33 (used first email)
 
 
 # Kidney Disease Classification Repository
